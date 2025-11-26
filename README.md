@@ -1,4 +1,4 @@
-🎮 Tic Tac Toe Game
+🎮 Tic Tac Toe Game!
 
 A simple and fun Tic Tac Toe game built using HTML, CSS, and JavaScript. 
 This project is beginner-friendly and helps in understanding DOM manipulation and basic game logic.
