@@ -17,6 +17,7 @@ The first player to align 3 symbols in a row, column, or diagonal wins.
 If all cells are filled without a winner, the game is a draw.
 
 👨‍💻 Author
+<br>
 Shees
 <br>
 Built with ❤️ using HTML, CSS, and JavaScript
