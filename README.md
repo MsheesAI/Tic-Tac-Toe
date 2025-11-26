@@ -9,12 +9,16 @@ This project is beginner-friendly and helps in understanding DOM manipulation an
 🧠 How to Play
 
 Player X goes first.
+<br>
 Click on any empty cell to make a move.
+<br>
 The first player to align 3 symbols in a row, column, or diagonal wins.
+<br>
 If all cells are filled without a winner, the game is a draw.
 
 👨‍💻 Author
 Shees
+<br>
 Built with ❤️ using HTML, CSS, and JavaScript
 
 
