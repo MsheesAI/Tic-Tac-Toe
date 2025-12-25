@@ -18,7 +18,7 @@ If all cells are filled without a winner, the game is a draw.
 
 👨‍💻 Author
 <br>
-Shees
+Shees Gen/Agentic AI Developer
 <br>
 Built with ❤️ using HTML, CSS, and JavaScript
 
